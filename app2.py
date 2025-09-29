@@ -15,12 +15,12 @@ ver = '1.5.0'
 colors = {'grey':'#23272a', 'green-b':'#406ba1', 'madebywsd':'#505457', 'green-b-not-available':'#8cb8a4', 'undername':'#696d70'}
 
 accountdetails = {
-    "accountName":"TNMTRoli",
-    "charName":"William S David",
-    "charRank":"Főhadnagy",
-    "charBeosztas":"Mentor",
-    "adminLevel":2,
-    "pfplink":r"https://i.imgur.com/lAjPt7B.jpeg",
+    "accountName":"",
+    "charName":"",
+    "charRank":"",
+    "charBeosztas":"",
+    "adminLevel":,
+    "pfplink":"",
     "pfpdata":b""
 }
 
@@ -655,3 +655,4 @@ if __name__ == "__main__":
     #login_window()
     calc_window()
     #debug()
+
